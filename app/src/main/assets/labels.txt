@@ -1,0 +1,3 @@
+0 200 Indian rupee
+1 100 Indian rupee
+2 10 Indian rupee
